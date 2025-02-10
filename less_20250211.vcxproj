@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dynamicArray.cpp" />
     <ClCompile Include="hanoi.cpp" />
     <ClCompile Include="hanoi_rec.cpp" />
     <ClCompile Include="less_20250211.cpp" />
+    <ClCompile Include="recurs.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
