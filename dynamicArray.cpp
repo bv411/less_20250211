@@ -26,7 +26,7 @@ T** resize_row(T**, int, int, int);
 template <typename T>
 void resize_col(T**, int, int, int);
 
-int main() {
+int main_d() {
 
     int row = 10;
     int col = 10;

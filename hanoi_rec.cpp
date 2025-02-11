@@ -14,7 +14,7 @@ void hanoi(int n, int i, int k) {
     }
 }
 
-int main() {
+int main_rec() {
 
     hanoi(2, 1, 2);
     return 0;

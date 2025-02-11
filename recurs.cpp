@@ -1,5 +1,3 @@
-Использовано 89 % доступного пространства.… Когда свободное место закончится, вы не сможете создавать, редактировать и загружать файлы.Получите 100 ГБ за 139, 00 ? 35, 00 ? / мес.на 2 месяца.
-?
 #include <iostream>
 using namespace std;
 
@@ -164,7 +162,7 @@ int BinarySearch2(int A[], int Lb, int Rb, int Key) {
 }
 
 
-int main() {
+int main_11() {
     srand(time(NULL));
     const long SIZE = 10;
     int ar[SIZE];

@@ -130,6 +130,7 @@
     <ClCompile Include="dynamicArray.cpp" />
     <ClCompile Include="hanoi.cpp" />
     <ClCompile Include="hanoi_rec.cpp" />
+    <ClCompile Include="lesson_today.cpp" />
     <ClCompile Include="less_20250211.cpp" />
     <ClCompile Include="recurs.cpp" />
   </ItemGroup>
